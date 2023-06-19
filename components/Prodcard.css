@@ -1,0 +1,12 @@
+.con{
+    display: flex;
+    width: 60%;
+    margin: auto;
+    justify-content: center;
+    flex-direction: column;
+    padding: 20px 5px;
+}
+.con div img{
+    width: 100px;
+    height: 100px;
+}
